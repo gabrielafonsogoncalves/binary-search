@@ -1,5 +1,5 @@
 # Binary Search in Swift
-Binary Search algorithm using a while loop.
+Binary Search algorithm using a while loop and generics.
 
 Binary search is an O(log(n)) logarithm
 
