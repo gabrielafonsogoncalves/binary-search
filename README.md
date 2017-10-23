@@ -1,4 +1,4 @@
-# binary-search
+# Binary Search in Swift
 Binary Search algorithm using a while loop.
 
 Binary search is an O(log(n)) logarithm
